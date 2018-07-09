@@ -20,7 +20,7 @@ The specific goals of the course are:
 
 # Current Students
 
-1. Nathan
+1. Nattan
 2. Luca
 3. Yassin
 
